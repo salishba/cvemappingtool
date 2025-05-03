@@ -11,7 +11,7 @@ MITRE_CVE_API_URL = "https://cveawg.mitre.org/api/cve"
 NVD_API_URL = "https://services.nvd.nist.gov/rest/json/cves/2.0"
 MITIGATION_MAPPING_URL = "https://raw.githubusercontent.com/center-for-threat-informed-defense/attack-mapping/main/mappings/technique_mitigations.json"
 
-API_KEY = "f5fed806-6ae5-4564-85c9-55358feee9ea"
+API_KEY = <add-you-api-key>
 console = Console()
 attack_data_cache = None  
 
